@@ -9,7 +9,6 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 
 * Generate QR codes instantly from text or URLs
 * Responsive design with styled input and button
-* Smooth transition when QR code is displayed
 * Uses CSS custom properties for easy color theming
 
 ---
